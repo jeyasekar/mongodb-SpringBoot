@@ -1,7 +1,8 @@
-package com.techprimers.mongodb.springbootmongodbexample.resource;
+package com.jey.mongodb.springbootmongodbexample.resource;
 
-import com.techprimers.mongodb.springbootmongodbexample.document.Users;
-import com.techprimers.mongodb.springbootmongodbexample.repository.UserRepository;
+import com.jey.mongodb.springbootmongodbexample.document.Users;
+import com.jey.mongodb.springbootmongodbexample.repository.UserRepository;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
